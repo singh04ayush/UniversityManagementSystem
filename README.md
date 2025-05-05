@@ -22,3 +22,10 @@ The **University Management System (UMS)** is a comprehensive desktop applicatio
 1. Clone the repository:
    ```sh
    git clone https://github.com/singh04ayush/UniversityManagementSystem.git
+
+
+2. Open the project in your preferred Java IDE.
+
+3. Set up the database using the provided SQL schema.
+
+4. Run the application.
